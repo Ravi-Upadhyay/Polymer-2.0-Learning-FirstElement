@@ -1,0 +1,7 @@
+{
+  "name": "google-polymer",
+  "short_name": "google-polymer",
+  "description": "polymer app to do various POCs",
+  "start_url": "/",
+  "display": "standalone"
+}

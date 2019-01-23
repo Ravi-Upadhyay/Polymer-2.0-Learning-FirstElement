@@ -9,7 +9,7 @@ ___
     - [Polymer - Behaviours(1.0)](code-sandbox/polymer-behaviours)
 - [Code snippets](#code-snippets)
 - [Best practices](#best-practices)
-- [Resources Over Web](#resources)
+- [Resources Over Web](#resourc
 - [To do list](#to-do)
 
 ___
